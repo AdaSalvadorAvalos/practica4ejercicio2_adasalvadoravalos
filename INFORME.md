@@ -3,7 +3,8 @@ Materiales:
 ·1 LED
 · 1 resistencia de 470ohms
 
-Objetivo: observar las dos tareas se sincronizan de manera que una apaga el led y la otra lo enciende.
+Presentación: 
+En esta práctica observarmos como las dos tareas se sincronizan de manera que una apaga el led y la otra lo enciende.
 
 Explicación del código:
  
