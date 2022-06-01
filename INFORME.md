@@ -1,12 +1,14 @@
-Materiales:
+# Práctica 4: ejercicio 2
+
+## Materiales:
 ·ESP32
 ·1 LED
 · 1 resistencia de 470ohms
 
-Presentación: 
+## Presentación: 
 En esta práctica observarmos como las dos tareas se sincronizan de manera que una apaga el led y la otra lo enciende.
 
-Explicación del código:
+## Explicación del código (con comentarios que explican el funcionamiento línea a línea) :
  
 ```
 #include <Arduino.h>
@@ -84,4 +86,4 @@ void loop(){
 
 ```
 
-VER SALIDAS EN EL VIDEO: 
+Las salidas se pueden ver con más claridad en el vídeo. 
