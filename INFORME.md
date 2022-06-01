@@ -1,9 +1,9 @@
 # Práctica 4: ejercicio 2
 
 ## Materiales:
-·ESP32
-·1 LED
-· 1 resistencia de 470ohms
+- ESP32
+- 1 LED
+- 1 resistencia de 470ohms
 
 ## Presentación: 
 En esta práctica observarmos como las dos tareas se sincronizan de manera que una apaga el led y la otra lo enciende.
