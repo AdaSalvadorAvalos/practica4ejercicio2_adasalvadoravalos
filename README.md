@@ -1,14 +1,14 @@
-# Practice 4-B: LED Task Synchronization on ESP32 (English Version)
-## Materials
+# Practice 4-B: LED Task Synchronization on ESP32 (English Version)
+## Materials
 - ESP32
 - 1 LED
 - 1 resistor (470Ω)
 
-## Introduction
+## Introduction
 
 In this practice for the Digital Processors course, we observe how two tasks can be synchronized so that one turns the LED off while the other turns it on.
 
-## Code Explanation (with line-by-line comments)
+## Code Explanation (with line-by-line comments)
 ```cpp
 #include <Arduino.h>
 
@@ -102,7 +102,7 @@ void loop(){
 - 1 LED
 - 1 resistencia (470Ω)
 
-## Introducción
+## Introducción
 En esta práctica del curso de Procesadores Digitales, observamos cómo dos tareas pueden sincronizarse de manera que una apaga el LED mientras la otra lo enciende.
 
 ## Explicación del código (con comentarios línea por línea):
