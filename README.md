@@ -97,8 +97,7 @@ void loop(){
 
 ### Resources
 - **Video Demonstration in Spanish:** [Watch video](assets/practica4ej2.mp4)  
-- **Arduino FreeRTOS Reference:** [Arduino FreeRTOS](https://www.freertos.org/FreeRTOS-quick-start-guide.html)  
-- **LED Basics and Circuit Guide:** [Arduino LED Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
+- **FreeRTOS Reference (ESP32 / ESP-IDF):** [FreeRTOS Documentation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/freertos.html)   
 
 
 # Práctica 4-B: Sincronización de Tareas con LED en ESP32 (Versión en Español)
@@ -217,6 +216,5 @@ void loop(){
 
 ### Recursos
 - **Video demostrativo en español:** [Ver video](assets/practica4ej2.mp4)  
-- **Referencia de Arduino FreeRTOS:** [Arduino FreeRTOS](https://www.freertos.org/FreeRTOS-quick-start-guide.html)  
-- **Guía de LEDs y Circuitos:** [Tutorial Arduino LED](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
+- **Referencia FreeRTOS (ESP32 / ESP-IDF):** [Documentación FreeRTOS](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/freertos.html)  
 
