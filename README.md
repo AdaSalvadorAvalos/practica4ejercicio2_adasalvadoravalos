@@ -96,7 +96,8 @@ void loop(){
 
 
 ### Resources
-- **Video Demonstration in Spanish:** [Watch video](assets/practica4ej2.mp4)  
+- **Video Demonstration in Spanish:** [Watch video](assets/practica4ej2.mp4)
+- **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
 - **FreeRTOS Reference (ESP32 / ESP-IDF):** [FreeRTOS Documentation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/freertos.html)   
 
 
@@ -215,6 +216,8 @@ void loop(){
 
 
 ### Recursos
-- **Video demostrativo en español:** [Ver video](assets/practica4ej2.mp4)  
+- **Video demostrativo en español:** [Ver video](assets/practica4ej2.mp4)
+- **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
 - **Referencia FreeRTOS (ESP32 / ESP-IDF):** [Documentación FreeRTOS](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/freertos.html)  
+
 
