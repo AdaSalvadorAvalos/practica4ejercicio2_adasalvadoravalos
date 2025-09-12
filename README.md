@@ -95,6 +95,12 @@ void loop(){
    - The LED will blink as the two tasks alternate: one turning it on, the other turning it off
 
 
+### Resources
+- **Video Demonstration in Spanish:** [Watch video](assets/practica4ej2.mp4)  
+- **Arduino FreeRTOS Reference:** [Arduino FreeRTOS](https://www.freertos.org/FreeRTOS-quick-start-guide.html)  
+- **LED Basics and Circuit Guide:** [Arduino LED Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
+
+
 # Práctica 4-B: Sincronización de Tareas con LED en ESP32 (Versión en Español)
 
 ## Materiales
@@ -210,5 +216,7 @@ void loop(){
 
 
 ### Recursos
-- Video explicativo en español sobre la práctica y el funcionamiento del LED: [Ver video](assets/practica4ej2.mp4)
+- **Video demostrativo en español:** [Ver video](assets/practica4ej2.mp4)  
+- **Referencia de Arduino FreeRTOS:** [Arduino FreeRTOS](https://www.freertos.org/FreeRTOS-quick-start-guide.html)  
+- **Guía de LEDs y Circuitos:** [Tutorial Arduino LED](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
 
